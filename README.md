@@ -2,5 +2,6 @@
 - 👀 I’m interested in Bioinformatics, Metabolome, Genome etc.
 - 🌱 I’m currently learning to be a bioinformatics PhD.
 - 📍 I’m studying in Kyoto University & McGill University.
-- 📫 How to reach me huiting.ou@mail.mcgill.ca
-- 🧡 よろしくお願いしま
+- 📫 How to reach me: huiting.ou@mail.mcgill.ca
+- 🧡 I speak EN/Canto/Mando/ & some FR/JP
+- 🙇🏻‍♀️ よろしくお願いしま
