@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @janiceou
 - 👀  I’m interested in Bioinformatics, Metabolome, Genome etc.
-- 🌱  I’m currently studying to be a bioinformatics PhD.
+- 🌱  I’m a bioinformatics Ph.D. Candidate.
 - 📍  My home universities are both Kyoto University & McGill University.
 - 📫  Reach me: huiting.ou [at] mail.mcgill.ca
 - 🧡  I speak EN/Canto/Mando & some FR/JP
